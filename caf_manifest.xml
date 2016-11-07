@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+
+  <remote name="caf"
+          fetch="git://codeaurora.org"
+          review="codeaurora.org" />
+
+
+<project path="device/huawei/y550/SnapdragonCamera" name="platform/packages/apps/SnapdragonCamera" remote="caf" revision="LA.BR.1.3.5_rb1.6" />
+
+
+</manifest>
+
